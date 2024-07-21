@@ -1,1 +1,1 @@
-FROM sameersbn/gitlab:16.2.8
+FROM sameersbn/gitlab:16.4.4
